@@ -14,39 +14,52 @@ To be part of this initiative, any designer can join the council by presenting a
 
 ------
 
-Future Events
+Upcoming Events
 ======
-2024/09/29 - World Interaction Design Day 2024
+World Interaction Design Day 2024
+: 29 September 2024, Hybrid
 : [insert speaker name]
+: [Materials and resources](/#)
 
 Past Events
 ======
 Let's Talk About Money
-: 17 Sept 2024, Hybrid
+: 17 September 2024, Hybrid
 : Arina Hawadah, PD
+: [Materials and resources](/#)
 
 Emotional Designer
 : 5 August 2024, Hybrid
 : Indra Ross, PDL
+: [Materials and resources](/#)
 
 3D Printing Basics
 : 24 June 2024, Hybrid
-: M. Farras
+: M. Farras, PD
+: [Materials and resources](/#)
 
 Simplify Your Workflow
 : 15 June 2024, Hybrid
 : [insert speaker name]
+: [Materials and resources](/#)
 
-2024/06/13 - Illustration in UI/UX
+Illustration in UI/UX
+13 June 2024, Hybrid
 : [insert speaker name]
+: [Materials and resources](/#)
+
 2024/04/24 - The Art of S.M.A.R.T
 : [insert speaker name]
 
-2024/04/10 - AI Incorporation
-: Indra Ross, PDL
+**AI Incorporation**
+10 April 2024
+Indra Ross, PDL
+[Materials and resources](/#)
 
-2024/03/26 - Mobile Photography
-: Abed, PD
+**Mobile Photography**
+26 March 2024
+Abed, PD
+[Materials and resources](/#)
 
 2024/01/26 - Persona
 : Amanda, PR
