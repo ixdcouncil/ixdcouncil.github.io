@@ -21,15 +21,20 @@ Future Events
 
 Past Events
 ======
-2024/09/17 - Let's Talk About Money
+Let's Talk About Money
+: 17 Sept 2024, Hybrid
 : Arina Hawadah, PD
 
-2024/08/05 - Emotional Designer
+Emotional Designer
+: 5 August 2024, Hybrid
 : Indra Ross, PDL
-2024/06/24 - 3D Printing Basics
+
+3D Printing Basics
+: 24 June 2024, Hybrid
 : M. Farras
 
-2024/06/15 - Simplify Your Workflow
+Simplify Your Workflow
+: 15 June 2024, Hybrid
 : [insert speaker name]
 
 2024/06/13 - Illustration in UI/UX
