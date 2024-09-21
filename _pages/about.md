@@ -2,9 +2,6 @@
 permalink: /
 title: "Breaking Boundaries, Building Leaders"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Great design transcends boundaries, and we believe the path to innovation is paved by inclusion, collaboration, and continuous growth. The Interaction Design Community Network (IDCN) unites designers from across the globe, driven by a shared passion for pushing the limits of what design can achieve. IDCN offers a welcoming space where learning knows no limits, and every voice, regardless of background, gender, location, or ability, contributes to the conversation.
