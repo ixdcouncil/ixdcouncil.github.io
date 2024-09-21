@@ -6,9 +6,8 @@ author_profile: true
 
 ![IxDC](images/image-alignment-1200x4002.jpg)
 
-# Breaking Boundaries, Building Leaders
+<!-- # Breaking Boundaries, Building Leaders -->
 
-------
 Great design transcends boundaries, and we believe the path to innovation is paved by inclusion, collaboration, and continuous growth. The Interaction Design Council (IxDC) unites designers from across the globe, driven by a shared passion for pushing the limits of what design can achieve. IxDC offers a welcoming space where learning knows no limits, and every voice, regardless of background, gender, location, or ability, contributes to the conversation.
 
 With access to resources, opportunities for knowledge exchange, and discussions spanning a wide range of design challenges and domains, IxDC empowers its members to lead with impact. By fostering an environment of growth, creativity, and leadership, we aim to shape the next generation of visionary designers who will not only elevate human experiences but also become the world's future leaders, driving meaningful change on a global scale.
@@ -122,3 +121,5 @@ Intro to Behavioural Science
 : 8 September 2023
 : [insert speaker name]
 : [Materials and resources](/#)
+
+[continued ...]
