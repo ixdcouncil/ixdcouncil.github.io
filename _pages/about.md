@@ -1,3 +1,5 @@
+![IxDC](images/image-alignment-1200x4002.jpg)
+
 ---
 permalink: /
 title: "Breaking Boundaries, Building Leaders"
@@ -9,20 +11,23 @@ Great design transcends boundaries, and we believe the path to innovation is pav
 
 With access to resources, opportunities for knowledge exchange, and discussions spanning a wide range of design challenges and domains, IxDC empowers its members to lead with impact. By fostering an environment of growth, creativity, and leadership, we aim to shape the next generation of visionary designers who will not only elevate human experiences but also become the world's future leaders, driving meaningful change on a global scale.
 
-To be part of this initiative, any designer can join the council by presenting a single-slide presentation at our monthly virtual meetup. Afterward, you are free to choose any contribution role that suits your interests. To start, simply [fill out this form].
+To be part of this initiative, any designer can join the council by presenting a single-slide presentation at our monthly virtual meetup. Afterward, you are free to choose any contribution role that suits your interests. To start, simply [fill out this form](/#).
 {: .notice}
 
 ------
 
-Upcoming Events
-======
+## Upcoming Events
+
 World Interaction Design Day 2024
 : 29 September 2024, Hybrid
 : [insert speaker name]
 : [Materials and resources](/#)
 
-Past Events
-======
+## Past Events
+
+Some details you may be looking for might be missing due to a platform change. Additionally, records from the end of 2022 to the end of 2023 are unavailable. Please refer to previous documents for more information.
+{: .notice}
+
 Let's Talk About Money
 : 17 September 2024, Hybrid
 : Arina Hawadah, PD
@@ -48,52 +53,75 @@ Illustration in UI/UX
 : [insert speaker name]
 : [Materials and resources](/#)
 
-2024/04/24 - The Art of S.M.A.R.T
+The Art of S.M.A.R.T
+: 24 May 2024
 : [insert speaker name]
+: [Materials and resources](/#)
 
-**AI Incorporation**
-10 April 2024
-Indra Ross, PDL
-[Materials and resources](/#)
+AI Incorporation
+: 10 April 2024
+: Indra Ross, PDL
+: [Materials and resources](/#)
 
-**Mobile Photography**
-26 March 2024
-Abed, PD
-[Materials and resources](/#)
+Mobile Photography
+: 26 March 2024
+: Abed, PD
+: [Materials and resources](/#)
 
-2024/01/26 - Persona
+Persona
+: 26 January 2024
 : Amanda, PR
+: [Materials and resources](/#)
 
-2023/12/19 - Designing for Everyone: Laws of UX
+Designing for Everyone: Laws of UX
+: 19 December 2023
 : Yolanda, PM
+: [Materials and resources](/#)
 
 2023/11/21 - Design for All: Embracing Inclusivity and Ensuring Accessibility
+: 21 November 2023
 : Abrita, PD
+: [Materials and resources](/#)
 
-2023/11/14 - Prompt AI Introduction
+Prompt AI Introduction
+: 14 November 2023
 : [insert speaker name]
+: [Materials and resources](/#)
 
-2023/10/27 - Solving Problem and Generate Ideas with P.O.V
+Solving Problem and Generate Ideas with P.O.V
+: 27 October 2023
 : [insert speaker name]
+: [Materials and resources](/#)
 
-2023/10/24 - Localisation to Enhance User Experience
+Localisation to Enhance User Experience
+: 24 October 2023
 : Rizka, PW
+: [Materials and resources](/#)
 
-2023/10/13 - Dark Pattern: Dark Side of UX
+Dark Pattern: Dark Side of UX
+: 13 October 2023
 : [insert speaker name]
+: [Materials and resources](/#)
 
-2023/10/06 - How to Run Card Sorting
+How to Run Card Sorting
+: 06 October 2023
 : [insert speaker name]
+: [Materials and resources](/#)
 
-2023/09/29 - Intro to Data Analysis
+Intro to Data Analysis
+: 29 September 2023
 : [insert speaker name]
+: [Materials and resources](/#)
 
-2023/09/15 - Engaging User Through Gamification
+Engaging User Through Gamification
+: 15 September 2023
 : [insert speaker name]
+: [Materials and resources](/#)
 
-2023/09/08 - Intro to Behavioural Science
+Intro to Behavioural Science
+: 8 September 2023
 : [insert speaker name]
-
+: [Materials and resources](/#)
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
