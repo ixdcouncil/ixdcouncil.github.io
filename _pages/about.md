@@ -1,10 +1,10 @@
-![IxDC](images/image-alignment-1200x4002.jpg)
-
 ---
 permalink: /
 title: "Breaking Boundaries, Building Leaders"
 author_profile: true
 ---
+
+![IxDC](images/image-alignment-1200x4002.jpg)
 
 ------
 Great design transcends boundaries, and we believe the path to innovation is paved by inclusion, collaboration, and continuous growth. The Interaction Design Council (IxDC) unites designers from across the globe, driven by a shared passion for pushing the limits of what design can achieve. IxDC offers a welcoming space where learning knows no limits, and every voice, regardless of background, gender, location, or ability, contributes to the conversation.
