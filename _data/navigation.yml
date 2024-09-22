@@ -6,7 +6,7 @@
 
 main:
   - title: "Leaders at IxDC"
-    url: /leaders/
+    url: /#
         
   - title: "Events"
     url: /events/
@@ -15,10 +15,10 @@ main:
     url: /resources/
 
   - title: "Blog"
-    url: /blog/
+    url: /#
 
   - title: "Community"
-    url: /community/
+    url: /#
     
   - title: "Get Involved"
     url: /get-involved/
