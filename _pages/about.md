@@ -17,7 +17,7 @@ To be part of this initiative, any designer can join the council by presenting a
 
 ## Upcoming Events
 
-![IxDC](images/ixdc-ixdd-wide.jpg)
+![IxDC](images/ixdc-ixdd-wide.png)
 World Interaction Design Day 2024
 : 29 September 2024, Hybrid
 : [insert speaker name]
