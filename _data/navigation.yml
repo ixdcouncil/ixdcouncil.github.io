@@ -17,8 +17,8 @@ main:
   - title: "Portfolio"
     url: /markdown/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Events"
+    url: /events/
     
   - title: "CV"
     url: /about/
