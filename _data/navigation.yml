@@ -5,20 +5,20 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /markdown/
+  - title: "Leaders at IxDC"
+    url: /leaders/
         
   - title: "Events"
     url: /events/
+
+  - title: "Resources"
+    url: /resources/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Community"
+    url: /community/
     
   - title: "Get Involved"
     url: /get-involved/
