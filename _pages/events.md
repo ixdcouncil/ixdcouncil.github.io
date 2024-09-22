@@ -18,74 +18,24 @@ redirect_from:
 
 ## Past Events
 
-|Date|Time|Location|Event|Speaker|Access|Materials & Resources|
-|----|----|--------|-----|-------|------|---------------------|
-|2024/09/29|19:00-20:00|Virtual|World Interaction Design Day 2024 (Day 1)|TBA1|Free/Public|[Link](#)|
-| | | | | TBA2 | | |
-| | | | | TBA2 | | |
-| 2024/09/29 | 19:00-20:00 | Virtual | World Interaction Design Day 2024 (Day 2) | TBA1 | Free/Public | [Link](#)
-
-|Date|Time|Location|Event|Speaker|Access|Materials & Resources|
-|-|----|--------|-----|-------|-|---------------------|
-|2024/09/29|19:00-20:00|Virtual|World Interaction Design Day 2024 (Day 1)|TBA1|Free/Public|[Link](#)|
+|    Date    |        Time       | Location |                               Event                              |        Speaker        |     Access    | Materials & Resources |
+|:----------:|:-----------------:|:--------:|:----------------------------------------------------------------:|:---------------------:|:-------------:|:---------------------:|
+| 2024/09/17 | 17:00-18:00 UTC+7 | Virtual  | Let's Talk About Money                                           | Arina Hawadah, PD     | Free/Internal | [Link](#)             |
+| 2024/08/05 | 17:00-18:00 UTC+7 | Virtual  | Emotional Designer                                               | Indra Ross, PDL       | Free/Internal | [Link](#)             |
+| 2024/06/24 | 17:00-18:00 UTC+7 | Virtual  | 3D Printing Basics                                               | M. Farras, PD         | Free/Internal | [Link](#)             |
+| 2024/06/15 | 17:00-18:00 UTC+7 | Virtual  | Simplify Your Workflow                                           | [insert speaker name] | Free/Internal | [Link](#)             |
+| 2024/06/13 | 17:00-18:00 UTC+7 | Virtual  | Illustration in UI/UX                                            | [insert speaker name] | Free/Internal | [Link](#)             |
+| 2024/05/24 | 17:00-18:00 UTC+7 | Virtual  | The Art of S.M.A.R.T                                             | [insert speaker name] | Free/Internal | [Link](#)             |
+| 2024/04/10 | 17:00-18:00 UTC+7 | Virtual  | AI Incorporation                                                 | Indra Ross, PDL       | Free/Internal | [Link](#)             |
+| 2024/03/26 | 17:00-18:00 UTC+7 | Virtual  | Mobile Photography                                               | Abed, PD              | Free/Internal | [Link](#)             |
+| 2024/01/26 | 17:00-18:00 UTC+7 | Virtual  | Persona                                                          | Amanda, PR            | Free/Internal | [Link](#)             |
+| 2023/12/19 | 17:00-18:00 UTC+7 | Virtual  | Designing for Everyone: Laws of UX                               | Yolanda, PM           | Free/Internal | [Link](#)             |
+| 2023/11/21 | 17:00-18:00 UTC+7 | Virtual  | Design for All: Embracing Inclusivity and Ensuring Accessibility | Abrita, PD            | Free/Internal | [Link](#)             |
 
 Some details you may be looking for might be missing due to a platform change. For records before the end of 2023, please refer to previous documents for more information.
 {: .notice}
 
-Let's Talk About Money
-: 17 September 2024, Hybrid
-: Arina Hawadah, PD
-: [Materials and resources](/#)
 
-Emotional Designer
-: 5 August 2024, Hybrid
-: Indra Ross, PDL
-: [Materials and resources](/#)
-
-3D Printing Basics
-: 24 June 2024, Hybrid
-: M. Farras, PD
-: [Materials and resources](/#)
-
-Simplify Your Workflow
-: 15 June 2024, Hybrid
-: [insert speaker name]
-: [Materials and resources](/#)
-
-Illustration in UI/UX
-: 13 June 2024, Hybrid
-: [insert speaker name]
-: [Materials and resources](/#)
-
-The Art of S.M.A.R.T
-: 24 May 2024
-: [insert speaker name]
-: [Materials and resources](/#)
-
-AI Incorporation
-: 10 April 2024
-: Indra Ross, PDL
-: [Materials and resources](/#)
-
-Mobile Photography
-: 26 March 2024
-: Abed, PD
-: [Materials and resources](/#)
-
-Persona
-: 26 January 2024
-: Amanda, PR
-: [Materials and resources](/#)
-
-Designing for Everyone: Laws of UX
-: 19 December 2023
-: Yolanda, PM
-: [Materials and resources](/#)
-
-Design for All: Embracing Inclusivity and Ensuring Accessibility
-: 21 November 2023
-: Abrita, PD
-: [Materials and resources](/#)
 
 Prompt AI Introduction
 : 14 November 2023
