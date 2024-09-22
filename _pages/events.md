@@ -9,13 +9,25 @@ redirect_from:
 
 ## Upcoming Events
 
-![IxDC](images/ixdc-ixdd-wide.png)
-World Interaction Design Day 2024
-: 29 September 2024, Hybrid
-: [insert speaker name]
-: [Materials and resources](/#)
+| Date | Time | Location | Event | Speaker | Access | Materials & Resources |
+| ---- | ---- | -------- | ----- | ------- | ------ | --------------------- |
+| 2024/09/29 | 19:00-20:00 | Virtual | World Interaction Design Day 2024 (Day 1) | TBA1 | Free/Public | [Link](#) |
+| | | | | TBA2 | | |
+| | | | | TBA2 | | |
+| 2024/09/29 | 19:00-20:00 | Virtual | World Interaction Design Day 2024 (Day 2) | TBA1 | Free/Public | [Link](#) |
 
 ## Past Events
+
+|Date|Time|Location|Event|Speaker|Access|Materials & Resources|
+|----|----|--------|-----|-------|------|---------------------|
+|2024/09/29|19:00-20:00|Virtual|World Interaction Design Day 2024 (Day 1)|TBA1|Free/Public|[Link](#)|
+| | | | | TBA2 | | |
+| | | | | TBA2 | | |
+| 2024/09/29 | 19:00-20:00 | Virtual | World Interaction Design Day 2024 (Day 2) | TBA1 | Free/Public | [Link](#)
+
+|Date|Time|Location|Event|Speaker|Access|Materials & Resources|
+|-|----|--------|-----|-------|-|---------------------|
+|2024/09/29|19:00-20:00|Virtual|World Interaction Design Day 2024 (Day 1)|TBA1|Free/Public|[Link](#)|
 
 Some details you may be looking for might be missing due to a platform change. For records before the end of 2023, please refer to previous documents for more information.
 {: .notice}
