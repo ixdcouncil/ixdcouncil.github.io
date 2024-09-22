@@ -27,7 +27,7 @@ author:
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
   employer         : # "Red Brick University"
-  uri              : "ixdcouncil.github.io"
+  uri              : # "ixdcouncil.github.io"
   email            : # "none@example.org" 
 
   # Academic websites
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : ixdcouncil
+  instagram        : # ixdcouncil
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
