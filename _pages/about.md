@@ -4,7 +4,7 @@ title:
 author_profile: true
 ---
 
-![IxDC](images/image-alignment-1200x4002.jpg)
+![IxDC](images/ixdc-join-wide.jpg)
 
 <!-- # Breaking Boundaries, Building Leaders -->
 
@@ -17,6 +17,7 @@ To be part of this initiative, any designer can join the council by presenting a
 
 ## Upcoming Events
 
+![IxDC](images/ixdc-ixdd-wide.jpg)
 World Interaction Design Day 2024
 : 29 September 2024, Hybrid
 : [insert speaker name]
