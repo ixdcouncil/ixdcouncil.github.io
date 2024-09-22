@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "IXDC"
+title                    : "IxDC"
 title_separator          : "-"
-name                     : &name "IXDC"
-description              : &description "IXDC Page"
+name                     : &name "IxDC"
+description              : &description "IxDC Page"
 url                      : https://ixdcouncil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ixdcouncil/ixdcouncil.github.io"
