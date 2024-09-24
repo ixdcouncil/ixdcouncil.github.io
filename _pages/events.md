@@ -9,12 +9,7 @@ redirect_from:
 
 ## Upcoming Events
 
-| Date | Time | Location | Event | Speaker | Access | Materials & Resources |
-| ---- | ---- | -------- | ----- | ------- | ------ | --------------------- |
-| 2024/09/29 | 19:00-20:00 | Virtual | World Interaction Design Day 2024 (Day 1) | TBA1 | Free/Public | [Link](#) |
-| | | | | TBA2 | | |
-| | | | | TBA2 | | |
-| 2024/09/29 | 19:00-20:00 | Virtual | World Interaction Design Day 2024 (Day 2) | TBA1 | Free/Public | [Link](#) |
+[![WIDD2024](https://ixdcouncil.github.io/images/ixdc-ixdd-wide.jpg)](https://bit.ly/ixdc-ixdd)
 
 ## Past Events
 
