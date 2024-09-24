@@ -9,7 +9,7 @@ redirect_from:
 
 ## Upcoming Events
 
-[![WIDD2024](https://ixdcouncil.github.io/images/ixdc-ixdd-wide.jpg)](https://bit.ly/ixdc-ixdd)
+[![WIDD2024](https://ixdcouncil.github.io/images/ixdc-ixdd-wide.png)](https://bit.ly/ixdc-ixdd)
 
 ## Past Events
 
