@@ -8,29 +8,29 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 1px solid $light-gray;
+  border: 0px solid $light-gray; /* 1*/
 
   & + table {
-    margin-top: 1em;
+    margin-top: 1em; /* 1em*/
   }
 }
 
 thead {
   background-color: $lighter-gray;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 0px solid $light-gray;  /* 1*/
 }
 
 th {
-  padding: 0.5em;
+  padding: 4em; /* 0.5em*/
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
+  border-right: 0px solid $light-gray;  /* 1*/
 }
 
 td {
-  padding: 0.5em;
-  border-bottom: 1px solid $light-gray;
-  border-right: 1px solid $light-gray;
+  padding: 4em;  /* 0.5em*/
+  border-bottom: 0px solid $light-gray;  /* 1*/
+  border-right: 0px solid $light-gray;  /* 1*/
 }
 
 tr, td, th {
