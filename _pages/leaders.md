@@ -9,9 +9,10 @@ redirect_from:
 
 <table>
   <tr>
-    <td>Abrita</td>
-    <td>Ulya</td>
-    <td>Abed</td>
+    <td>__Abrita__<br>Product Designer</td>
+    <td>__Ulya__<br>Product Writer</td>
+    <td>__Abed__<br>Product Designer</td>
+    <td>__Rizka__<br>Product Writer</td>
   </tr>
   <tr>
     <td>Data 4</td>
