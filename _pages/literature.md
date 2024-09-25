@@ -6,9 +6,10 @@ redirect_from:
   - /literature/
   - /literature.html
 ---
-
-<a href="#journals">Journals</a>
-<a href="#books">Books</a>
+<small>
+&rsaquo; <a href="#journals">Journals</a>  
+&rsaquo; <a href="#books">Books</a>
+</small>
 
 ------
 
