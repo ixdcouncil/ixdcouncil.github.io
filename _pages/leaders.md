@@ -41,7 +41,20 @@ redirect_from:
   <tr>
     <td><strong>Olivia</strong><br><small>Product Designer</small></td>
     <td><strong>Lara</strong><br><small>Product Researcher</small></td>
-    <td><strong>Sofia</strong><br><small>Product Nanager</small></td>
-    <td><strong>Amara</strong><br><small>Product Writer</small></td>
+    <td><strong>Sofia</strong><br><small>Product Manager</small></td>
+    <td><strong>Zara</strong><br><small>Product Writer</small></td>
   </tr>
+  <tr>
+    <td><strong>Malik</strong><br><small>Front-End Developer</small></td>
+    <td><strong>Alejandro</strong><br><small>Content Writer</small></td>
+    <td><strong>Lea</strong><br><small>UX Researcher Lead</small></td>
+    <td><strong>Tarek</strong><br><small>Product Designer</small></td>
+  </tr>
+  <tr>
+    <td><strong>Ranjit</strong><br><small>UX Manager</small></td>
+    <td><strong>Lars</strong><br><small>DesignOps</small></td>
+    <td><strong>Chen</strong><br><small>Interaction Designer</small></td>
+    <td><strong>Isabel</strong><br><small>UX Designer</small></td>
+  </tr>
+  
 </table>
