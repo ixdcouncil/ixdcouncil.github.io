@@ -15,6 +15,19 @@ With access to resources, opportunities for knowledge exchange, and discussions 
 To be part of this initiative, any designer can join the council. Start your journey [here](/get-involved).
 {: .notice}
 
+## Recent Design Challenge
+
+### Smart Home Controller App
+
+<small> __PS:__ Design a smart home controller app that allows users to manage multiple smart devices (lights, thermostat, etc.) with ease. 
+__TA:__ Homeowners with smart home devices.  
+__Constraints:__  
+• Must have a "quick control" section for fast access to main features.  
+• Ensure accessibility by designing for all users, including those with visual impairments.  
+__Submission:__ 17 August 2024 – 24 August 2024 </small>  
+
+<small>See [All Design Challenge](/challenge)</small>
+
 ## Upcoming Events
 
 [![IxDC](images/ixdc-ixdd2-wide.png)](https://bit.ly/ixdc-ixdd)
@@ -28,7 +41,6 @@ RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)
 <small>__13 October 2024__, 7.00-9.00pm UTC+7, Virtual, Free/Public   
 Networking, Leader's Talks, Workshop [TBA, TBA, TBA, TBA]  
 RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
-
 
 ## Recent Events
 
@@ -57,4 +69,4 @@ M. Farras, PD
 [insert speaker name]  
 [Materials and resources](/#)</small>
 
-See [All Events](/events)
+<small>See [All Events](/events)</small>
