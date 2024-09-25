@@ -7,7 +7,7 @@ redirect_from:
   - /leaders.html
 ---
 
-<table border="0">
+<table border="0" cellpadding="20">
   <tr>
     <th>Header 1</th>
     <th>Header 2</th>
