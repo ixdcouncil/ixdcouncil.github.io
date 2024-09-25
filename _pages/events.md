@@ -9,7 +9,17 @@ redirect_from:
 
 ## Upcoming Events
 
-[![WIDD2024](https://ixdcouncil.github.io/images/ixdc-ixdd-wide.png)](https://bit.ly/ixdc-ixdd)
+[![IxDC](https://ixdcouncil.github.io/images/ixdc-ixdd-wide.png)](https://bit.ly/ixdc-ixdd)
+
+### World Interaction Design Day 2024 - Day 1  
+<small>29 September 2024, 19:00-21:00 UTC+7, Virtual, Free/Public  
+[TBA]  
+RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
+
+### World Interaction Design Day 2024 - Day 2  
+<small>29 September 2024, 19:00-21:00 UTC+7, Virtual, Free/Public   
+[TBA, TBA, TBA, TBA]  
+RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
 
 ## Past Events
 
