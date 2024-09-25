@@ -9,15 +9,15 @@ redirect_from:
 
 <table>
   <tr>
-    <td>__Abrita__<br>Product Designer</td>
-    <td>__Ulya__<br>Product Writer</td>
-    <td>__Abed__<br>Product Designer</td>
-    <td>__Rizka__<br>Product Writer</td>
+    <td><strong>Abrita</strong><br><small>Product Designer</small></td>
+    <td><strong>Ulya</strong><br><small>Product Writer</small></td>
+    <td><strong>Abed</strong><br><small>Product Designer</small></td>
+    <td><strong>Rizka</strong><br><small>Product Designer</small></td>
   </tr>
   <tr>
-    <td>__Farras__<br>Product Designer</td>
-    <td>__Arina__<br>Product Designer</td>
-    <td>__Iqbal__<br>Product Designer</td>
-    <td>__Indra__<br>Product Designer Lead</td>
+    <td><strong>Farras</strong><br><small>Product Designer</small></td>
+    <td><strong>Arina</strong><br><small>Product Designer</small></td>
+    <td><strong>Iqbal</strong><br><small>Product Designer</small></td>
+    <td><strong>Indra</strong><br><small>Product Designer</small></td>
   </tr>
 </table>
