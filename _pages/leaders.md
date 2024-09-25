@@ -7,16 +7,11 @@ redirect_from:
   - /leaders.html
 ---
 
-<table border="0" cellpadding="20">
+<table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
-  </tr>
-  <tr>
-    <td>Data 1</td>
-    <td>Data 2</td>
-    <td>Data 3</td>
+    <td>Abrita</td>
+    <td>Ulya</td>
+    <td>Abed</td>
   </tr>
   <tr>
     <td>Data 4</td>
