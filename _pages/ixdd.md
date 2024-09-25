@@ -17,7 +17,7 @@ Join us for World Interaction Design Day 2024, a global celebration that highlig
 This year’s theme, "Adding Dimensions in Design and Technology," focuses on how innovations like AI, AR/VR, and sustainable design are shaping the future. Whether you're a seasoned interaction designer or from a related field like development, academia, or product design, we invite you to be part of these discussions and collaborative sessions. Don't miss this opportunity to expand your knowledge, connect with peers, and help shape the future of design!
 
 ### World Interaction Design Day 2024 - Day 1  
-<small>__29 September 2024__, 5.30-6.30pm UTC+7, Virtual, Free/Public  
+<small>__26 September 2024__, 5.30-6.30pm UTC+7, Virtual, Free/Public  
 Opening, Networking - [TBA]  
 RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
 
