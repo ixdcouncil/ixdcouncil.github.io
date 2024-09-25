@@ -18,61 +18,43 @@ To be part of this initiative, any designer can join the council. Start your jou
 ## Upcoming Events
 
 ![IxDC](images/ixdc-ixdd-wide.png)
-World Interaction Design Day 2024
-: 29 September 2024, Hybrid
-: [insert speaker name]
-: [Materials and resources](/#)
+
+### World Interaction Design Day 2024 - Day 1  
+<small>29 September 2024, 19:00-21:00 UTC+7, Virtual, Free/Public  
+[TBA]  
+RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
+
+### World Interaction Design Day 2024 - Day 2  
+<small>29 September 2024, 19:00-21:00 UTC+7, Virtual, Free/Public   
+[TBA, TBA, TBA, TBA]  
+RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
+
 
 ## Recent Events
 
-Let's Talk About Money
-: 17 September 2024, Hybrid
-: Arina Hawadah, PD
-: [Materials and resources](/#)
+### Let's Talk About Money
+<small>17 September 2024, 17:00-18:00 UTC+7, Virtual, Free/Internal  
+Arina Hawadah, PD  
+[Materials and resources](/#)</small>
 
-Emotional Designer
-: 5 August 2024, Hybrid
-: Indra Ross, PDL
-: [Materials and resources](/#)
+### Emotional Designer
+<small>5 August 2024, 17:00-18:00 UTC+7, Virtual, Free/Internal  
+Indra Ross, PDL  
+[Materials and resources](/#)</small>
 
-3D Printing Basics
-: 24 June 2024, Hybrid
-: M. Farras, PD
-: [Materials and resources](/#)
+### 3D Printing Basics
+<small>24 June 2024, 17:00-18:00 UTC+7, Virtual, Free/Internal  
+M. Farras, PD  
+[Materials and resources](/#)</small>
 
-Simplify Your Workflow
-: 15 June 2024, Hybrid
-: [insert speaker name]
-: [Materials and resources](/#)
+### Simplify Your Workflow
+<small>15 June 2024, 17:00-18:00 UTC+7, Virtual, Free/Internal  
+[insert speaker name]  
+[Materials and resources](/#)</small>
 
-Illustration in UI/UX
-: 13 June 2024, Hybrid
-: [insert speaker name]
-: [Materials and resources](/#)
+### Illustration in UI/UX
+<small>13 June 2024, 17:00-18:00 UTC+7, Virtual, Free/Internal  
+[insert speaker name]  
+[Materials and resources](/#)</small>
 
-The Art of S.M.A.R.T
-: 24 May 2024
-: [insert speaker name]
-: [Materials and resources](/#)
-
-AI Incorporation
-: 10 April 2024
-: Indra Ross, PDL
-: [Materials and resources](/#)
-
-Mobile Photography
-: 26 March 2024
-: Abed, PD
-: [Materials and resources](/#)
-
-Persona
-: 26 January 2024
-: Amanda, PR
-: [Materials and resources](/#)
-
-Designing for Everyone: Laws of UX
-: 19 December 2023
-: Yolanda, PM
-: [Materials and resources](/#)
-
-[See full details](/events)
+See [All Events](/events)
