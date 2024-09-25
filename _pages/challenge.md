@@ -63,7 +63,7 @@ __Submission:__ 3 March 2024 – 10 March 2024 </small>
 
 ### Meditation App Personalization
 
-<small> __PS:__ Design a personalization feature for a meditation app that tailors sessions based on user preferences and progress. 
+<small> __PS:__ Design a personalization feature for a meditation app that tailors sessions based on user preferences and progress.  
 __TA:__ Individuals interested in mindfulness and meditation.  
 __Constraints:__  
 • Use soft gradients and soothing animations.  
@@ -72,7 +72,7 @@ __Submission:__ 15 February 2024 – 22 February 2024 </small>
 
 ### Restaurant Reservation System
 
-<small> __PS:__ Design a mobile app interface for a restaurant reservation system that makes booking a table quick and easy. 
+<small> __PS:__ Design a mobile app interface for a restaurant reservation system that makes booking a table quick and easy.  
 __TA:__ Busy professionals who prefer making reservations on the go.  
 __Constraints:__  
 • Must allow real-time updates of table availability.  
