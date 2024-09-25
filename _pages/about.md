@@ -20,12 +20,12 @@ To be part of this initiative, any designer can join the council. Start your jou
 ![IxDC](images/ixdc-ixdd-wide.png)
 
 ### World Interaction Design Day 2024 - Day 1  
-<small>29 September 2024, 19:00-21:00 UTC+7, Virtual, Free/Public  
+<small>__29 September 2024__, 19:00-21:00 UTC+7, Virtual, Free/Public  
 [TBA]  
 RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
 
 ### World Interaction Design Day 2024 - Day 2  
-<small>13 October 2024, 19:00-21:00 UTC+7, Virtual, Free/Public   
+<small>__13 October 2024__, 19:00-21:00 UTC+7, Virtual, Free/Public   
 [TBA, TBA, TBA, TBA]  
 RSVP at [bit.ly/ixdc-ixdd](https://bit.ly/ixdc-ixdd)  
 
