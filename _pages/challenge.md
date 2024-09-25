@@ -26,12 +26,14 @@ Submission: 17 August 2024 – 24 August 2024
 
 ### AI-based Content Recommendation System
 
-- Problem Statement: Design an AI-driven content recommendation system interface that suggests articles and videos based on user behavior.
+<small>
+Problem Statement: Design an AI-driven content recommendation system interface that suggests articles and videos based on user behavior.
 - Target Audience: Knowledge-seekers looking for personalized content.
 - Constraints:
   - Must show a clear balance between AI recommendations and user control.
   - The design should feel intuitive without overwhelming the user.
 - Submission: 26 June 2024 – 3 July 2024
+</small>
 
 ### Event Management App Calendar View
 
