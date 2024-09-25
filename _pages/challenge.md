@@ -15,6 +15,7 @@ redirect_from:
   - Must have a "quick control" section for fast access to main features.
   - Ensure accessibility by designing for all users, including those with visual impairments.
 - Submission: 17 August 2024 – 24 August 2024
+{: .notice}
 
 ### Language Learning App Progress Tracker
 
@@ -24,11 +25,13 @@ redirect_from:
   - Incorporate gamification elements (badges, levels).
   - Use bright and engaging visuals to encourage users.
 - Submission: 13 July 2024 – 20 July 2024
+  {: .notice}
 
 ### AI-based Content Recommendation System
 
 - Problem Statement: Design an AI-driven content recommendation system interface that suggests articles and videos based on user behavior.
 - Target Audience: Knowledge-seekers looking for personalized content.
+{: .notice}
 - Constraints:
   - Must show a clear balance between AI recommendations and user control.
   - The design should feel intuitive without overwhelming the user.
