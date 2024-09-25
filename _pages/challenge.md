@@ -36,22 +36,24 @@ __Submission:__ 26 June 2024 – 3 July 2024
 </small>
 
 ### Event Management App Calendar View
-
-- Problem Statement: Design a calendar view for an event management app to help users manage their schedule and upcoming events.
-- Target Audience: Professionals managing multiple events in their day-to-day work.
-- Constraints:
-  - The calendar view must be customizable.
-  - Must include color-coding for event types.
-- Submission: 7 May 2024 – 14 May 2024
+<small>
+  __Problem Statement:__ Design a calendar view for an event management app to help users manage their schedule and upcoming events.   
+  __Target Audience:__ Professionals managing multiple events in their day-to-day work.  
+  __Constraints:__  
+  • The calendar view must be customizable.  
+  • Must include color-coding for event types.  
+  __Submission:__ 7 May 2024 – 14 May 2024  
+</small>
 
 ### Charity Donation Website
 
-- Problem Statement: Design a website that facilitates easy and transparent charity donations.
-- Target Audience: Young professionals looking for easy ways to donate.
-- Constraints:
-  - Focus on trust-building elements (testimonials, clear donation impact).
-  - Keep the flow simple, with minimal distraction.
-- Submission: 18 April 2024 – 25 April 2024
+<small>
+  __Problem Statement:__ Design a website that facilitates easy and transparent charity donations.<br>
+  __Target Audience:__ Young professionals looking for easy ways to donate.<br>
+  __Constraints:__<br>
+  • Focus on trust-building elements (testimonials, clear donation impact).<br>
+  • Keep the flow simple, with minimal distraction.<br>
+  __Submission:__ 18 April 2024 – 25 April 2024
 
 ### Food Delivery App Map Interface
 
