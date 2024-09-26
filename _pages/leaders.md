@@ -1,6 +1,6 @@
 ---
 permalink: /leaders/
-title: "Leaders at IxDA"
+title: "Leaders at IxDC"
 author_profile: true
 redirect_from: 
   - /leaders/
